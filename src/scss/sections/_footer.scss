@@ -5,10 +5,11 @@
 .footer {
     padding-top: 5rem;
     padding-bottom: 5rem;
-    background-color: $secondary;
+    background-color: $primary;
     color: $white;
 }
 
 .copyright {
-    background-color: darken($secondary, 10%);
+    //background-color: darken($secondary, 10%);
+    background-color: $red;
 }
